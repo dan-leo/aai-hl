@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "python app.py"
+  },
+  "models": {
+    "alwaysai/mobilenet_ssd": 4,
+    "alwaysai/TRT_ssd_mobilenet_v2_coco_nano": 3
+  }
+}
