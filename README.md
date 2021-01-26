@@ -1,2 +1,2 @@
 # aai-hl
-AlwaysAI
+AlwaysAI multiple object detection
